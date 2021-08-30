@@ -1,26 +1,47 @@
-### Hi there 👋
-### About me 🚀
+<div align=center>
+    
+![Me](https://images.app.goo.gl/YUdetJjuJqYoTKTE8)
+### Me ⬆
 
-public static firstName = 'Lucky'
-    public static lastName = 'Yambem'
-    public static username = 'ShinNouzen'
-    public static aliases = ['BAKA']
+</div>
+
+## About Me 🎋 
+
+```TypeScript
+import { contact, IUser } from './github'
+
+export default class ME implements IUser {
+    public static firstName = 'Alen'
+    public static lastName = 'Yohannan'
+    public static username = 'AlenSaito1'
+    public static website = 'https://alenyohannan.xyz'
+    public static aliases = ['Ban Takahiro']
     public static skills = [
         'TypeScript', 
         'JavaScript', 
-        'NodeJS'
+        'NodeJS', 'C', 
+        'EJS', 
+        'Express', 
+        'NoSQL'
     ]
     public static info = {
-        age: 15,
+        age: 17,
         country: 'India',
         org: 'None',
         likes: [
-            'Anime', 
-         ]  
-
-
-    
-    
-    
-       
-        
+            'TypeScript', 
+            'Zelda Series', 
+            'JJBA Series', 
+            'Well.....'
+        ],
+        reach: [
+            {
+                name: contact.Discord,
+                username: 'Alen#4688'
+            },
+            {
+                name: contact.WhatsApp,
+                url: 'https://wa.me/+919744375687?text=Well...'
+            }
+        ]
+    }
