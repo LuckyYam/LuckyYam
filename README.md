@@ -1,13 +1,9 @@
 ### Hi there 👋
 ### About me 🚀
 
-import { contact, IUser } from './github'
-
-export default class ME implements IUser {
-    public static firstName = 'Lucky'
+public static firstName = 'Lucky'
     public static lastName = 'Yambem'
     public static username = 'ShinNouzen'
-    public static guthub repo = 
     public static aliases = ['BAKA']
     public static skills = [
         'TypeScript', 
@@ -21,5 +17,10 @@ export default class ME implements IUser {
         likes: [
             'Anime', 
          ]  
+
+
+    
+    
+    
        
         
