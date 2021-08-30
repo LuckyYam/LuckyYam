@@ -40,7 +40,8 @@ export default class ME implements IUser {
             },
             {
                 name: contact.WhatsApp,
-                url: 'https://wa.me/917005014836?text=Hmm...'
-            }
+                url: 'https://wa.me/917005014836?text=Hmm'
+            },
+               
         ]
     }
