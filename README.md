@@ -36,7 +36,7 @@ export default class ME implements IUser {
         reach: [
             {
                 name: contact.Discord,
-                username: 'Alen#4688'
+                username: 'Shin Nouzen#4457'
             },
             {
                 name: contact.WhatsApp,
@@ -51,7 +51,7 @@ export default class ME implements IUser {
                 username: 'Lucky Yambem'
             },
             {   name: contact.Twitter
-                username: 'shinnouzen'
+                username: 'Shin Nouzen (@NouzenShin)'
             }
         ]
     }
