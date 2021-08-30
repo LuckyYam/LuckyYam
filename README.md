@@ -1,7 +1,7 @@
 <div align=center>
     
 ![Me](https://images.app.goo.gl/YUdetJjuJqYoTKTE8)
-### Me ⬆
+### Hmm...
 
 </div>
 
@@ -11,37 +11,26 @@
 import { contact, IUser } from './github'
 
 export default class ME implements IUser {
-    public static firstName = 'Alen'
-    public static lastName = 'Yohannan'
-    public static username = 'AlenSaito1'
-    public static website = 'https://alenyohannan.xyz'
-    public static aliases = ['Ban Takahiro']
+    public static firstName = 'Lucky'
+    public static lastName = 'Yambem'
+    public static username = 'ShinNouzen'
+    public static aliases = ['BAKA']
     public static skills = [
         'TypeScript', 
         'JavaScript', 
-        'NodeJS', 'C', 
-        'EJS', 
-        'Express', 
-        'NoSQL'
+        'NodeJS',
+
     ]
     public static info = {
-        age: 17,
+        age: 15,
         country: 'India',
         org: 'None',
         likes: [
-            'TypeScript', 
-            'Zelda Series', 
-            'JJBA Series', 
-            'Well.....'
-        ],
-        reach: [
-            {
-                name: contact.Discord,
-                username: 'Alen#4688'
-            },
-            {
-                name: contact.WhatsApp,
-                url: 'https://wa.me/+919744375687?text=Well...'
-            }
+            'TypeScript',
+            'JavaScript',                                    
+            'NodeJS',
+            'Chitoge Kirisaki',
+            'Anime'
+        
         ]
     }
