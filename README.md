@@ -1,6 +1,6 @@
 <div align=center>
     
-![ShinNouzen](https://images.app.goo.gl/YUdetJjuJqYoTKTE8)
+![ShinNouzen](https://tenor.com/view/nouzen-shinei-shinei-nouzen-shinn-shin-gif-19665058)
 ### Hmm...
 
 </div>
