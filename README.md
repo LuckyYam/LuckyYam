@@ -33,6 +33,9 @@ export default class ME implements IUser {
             'JavaScript',                                    
             'NodeJS',
             'TypeScript,
+            'HTML',
+            'CSS',
+            'C++',
             'Anime'
         
         ],
