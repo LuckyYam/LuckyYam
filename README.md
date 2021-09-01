@@ -19,6 +19,9 @@ export default class ME implements IUser {
         'TypeScript', 
         'JavaScript', 
         'NodeJS',
+        'HTML',
+        'CSS',
+        'C++'
 
     ], 
     public static info = {
