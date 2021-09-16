@@ -61,3 +61,5 @@ export default class ME implements IUser {
             }
         ]
     }
+    [![Contribution Stats](https://next-github-tau.vercel.app/api/card?username=[ShinNouzen])](https://github.com/AlenSaito1/next-github/)
+
