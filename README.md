@@ -5,7 +5,7 @@
 
 </div>
 
-## About Me🚀 
+## About Me 🚀 
 
 ```TypeScript
 import { contact, IUser } from './github'
