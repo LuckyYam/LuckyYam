@@ -1,7 +1,7 @@
 <div align=center>
     
 ![nouzen-shinei](https://user-images.githubusercontent.com/85594230/131375305-420762b3-900c-486c-8e4a-9686c6b4eb15.gif)
-### Hmm...
+### Just...
 
 </div>
 
@@ -46,7 +46,7 @@ export default class ME implements IUser {
             },
             {
                 name: contact.WhatsApp,
-                url: 'https://wa.me/917005014836?text=Hmm'
+                url: 'https://wa.me/917005014836?text=Hi'
             },
             {
                 name: contact.Instagram
