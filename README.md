@@ -5,6 +5,12 @@
 
 </div>
 
+##
+
+<a href="https://github.com/ShinNouzen?tab=stars">
+    <img src="https://img.shields.io/github/stars/ShinNouzen?color=ff69b4&label=Stargazers&style=plastic">
+  </a>
+
 ## About Me 🚀 
 
 ```TypeScript
