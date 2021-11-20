@@ -10,7 +10,7 @@ jobs:
   github-metrics:
     runs-on: ubuntu-latest
     steps:
-      - uses: lowlighter/metrics@latest
+      - uses: lowlighter/metrics@master
         with:
           # Your GitHub token
           token: ${{ secrets.METRICS_TOKEN }}
@@ -39,15 +39,6 @@ jobs:
           plugin_repositories_batch: 100
           plugin_stars: yes
           plugin_stars_limit: 4
-
-      - uses: lowlighter/metrics@master
-        with:
-          # Your GitHub token
-          token: ${{ secrets.METRICS_TOKEN }}
-
-          # Options
-          user: ShinNouzen
-          template: anilist(anime)
           plugin_anilist: yes
           plugin_anilist_medias: anime
           plugin_anilist_sections: favorites, watching, characters
