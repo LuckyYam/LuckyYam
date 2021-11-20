@@ -54,8 +54,8 @@ export default class ME implements IUser {
         
         ],
         hates: [
-        `Peoples who knows how to fork or download the code but don't know how to give it a star`,
-        `Peoples who knows how to use someone's code but don't know how to give credits to the owner`
+        `People who knows how to fork or download the code but don't know how to give it a star`,
+        `People who knows how to use someone's code but don't know how to give credits to the owner`
         ],
         reach: [
             {
