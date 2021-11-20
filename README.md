@@ -53,6 +53,10 @@ export default class ME implements IUser {
             'Anime'
         
         ],
+        hates: [
+        'Peoples who knows how to fork or download the code but don't know how to give it a star',
+        'Peoples who knows how to use someone's code but don't know how to give credits to the owner'
+        ],
         reach: [
             {
                 name: contact.Discord,
