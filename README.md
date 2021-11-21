@@ -5,20 +5,7 @@
 
 </div>
 
-##
 
-<a href="https://github.com/ShinNouzen?tab=stars">
-    <img src="https://img.shields.io/github/stars/ShinNouzen?color=ff69b4&label=Stargazers&style=plastic">
-  </a>
-  <a href="https://github.com/ShinNouzen">
-    <img src="https://komarev.com/ghpvc/?username=ShinNouzen&label=Profile%20views&color=ff69b4&label=Profile+Views&style=plastic">
-  </a>
-
-</a>
-  <a href="https://github.com/ShinNouzen?tab=followers">
-    <img src="https://img.shields.io/github/followers/ShinNouzen?color=ff69b4&label=Followers&style=plastic">
-  </a>
-  
 ## About Me 🚀 
 
 ```TypeScript
@@ -27,7 +14,7 @@ import { contact, IUser } from './github'
 export default class ME implements IUser {
     public static firstName = 'Lucky'
     public static lastName = 'Yambem'
-    public static username = 'ShinNouzen'
+    public static username = 'ShineiIchijo'
     public static aliases = ['Shin']
     public static skills = [
         'TypeScript', 
