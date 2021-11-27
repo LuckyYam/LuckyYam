@@ -41,7 +41,7 @@ jobs:
           plugin_anilist: yes
           plugin_anilist_medias: anime, manga
           plugin_anilist_sections: favorites, watching, reading, characters
-          plugin_anilist_limit: 5
+          plugin_anilist_limit: 4
           plugin_anilist_limit_characters: 22
           plugin_skyline: yes
           plugin_skyline_year: 2021           
