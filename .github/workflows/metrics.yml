@@ -35,7 +35,7 @@ jobs:
           plugin_lines: yes
           plugin_notable: yes
           plugin_repositories: yes
-          plugin_repositories_featured: ShineiIchijo/Chitoge, Synthesized-Infinity/Whatsapp-Botto-Entropy, ShineiIchijo/AnimeQuiz
+          plugin_repositories_featured: ShineiIchijo/Chitoge, Synthesized-Infinity/Whatsapp-Botto-Entropy, ShineiIchijo/AnimeQuiz, ShineiIchijo/Marika
           plugin_stars: yes
           plugin_stars_limit: 4
           plugin_anilist: yes
@@ -44,7 +44,7 @@ jobs:
           plugin_anilist_limit: 4
           plugin_anilist_limit_characters: 22
           plugin_skyline: yes
-          plugin_skyline_year: 2021           
+          plugin_skyline_year: 2022         
           plugin_skyline_frames: 60         
           plugin_skyline_quality: 0.5   
           plugin_skyline_compatibility: yes
