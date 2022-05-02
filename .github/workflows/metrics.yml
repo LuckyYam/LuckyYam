@@ -39,7 +39,7 @@ jobs:
           plugin_languages_sections: most-used, recently-used
           plugin_languages_indepth: yes
           plugin_repositories: yes
-          plugin_repositories_featured: ShineiIchijo/Chitoge, ShineiIchijo/AnimeQuiz, ShineiIchijo/Marika
+          plugin_repositories_featured: ShineiIchijo/Chitoge, ShineiIchijo/Canvas-chan, ShineiIchijo/Marika, ShineiIchijo/AnimeQuiz 
           plugin_stars: yes
           plugin_stars_limit: 4
           plugin_anilist: yes
